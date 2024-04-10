@@ -2,9 +2,9 @@
 
 Project Developed by:
 
-Nirmal A K
+Rooban Kumar S
 
-712221205022, park college of engineering and technology
+712221205030, park college of engineering and technology
 
 ### Note Keeping App
 
